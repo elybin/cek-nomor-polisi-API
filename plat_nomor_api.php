@@ -7,8 +7,8 @@
  
  // declare value
  $nomora = 'G';
- $nomorb = 2803;
- $nomorc = 'UP';
+ $nomorb = 2222;
+ $nomorc = 'UT';
  
  // get data 
  $inf = get_info_motor("G 2222 UT");
